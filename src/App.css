@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
-
+.App input{
+  width: 150px;
+  height: 60px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
